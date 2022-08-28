@@ -19,11 +19,17 @@ A tool to convert `*.dds` to `*.i3i` format.
 ### BGMChanger
 A tool to change default background sound using `*.ogg` format.
 
+![ddspatcher](_img/BGMChanger.jpg)
+
 ### ConfigEditor
 A tool to edit encrypted config content (e.g. `lwsi_En.sif`)
 
+![ddspatcher](_img/ConfigEditor.jpg)
+
 ### DeBitRotate
 A tool just like **ConfigEditor**, but you can adjust shift key to find the correct shift key.
+
+![ddspatcher](_img/DeBitRotate.jpg)
 
 ### PEFDecryptor
 A tool to decrypt `*.pef` file.
