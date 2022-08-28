@@ -1,5 +1,6 @@
 # Point Blank Modification Tools
 
+[![Downloads](https://img.shields.io/github/downloads/Dareqaaaaa/PointBlankTools/total?label=Downloads&cacheSeconds=3600)](https://github.com/Dareqaaaaa/PointBlankTools/releases/tag/v1)
 
 ### I3PackTool
 A tool to open and extract `.i3pack` files.
