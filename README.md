@@ -35,3 +35,13 @@ A tool just like **ConfigEditor**, but you can adjust shift key to find the corr
 A tool to decrypt `*.pef` file.
 
 ![ddspatcher](_img/PEFDecryptor.jpg)
+
+
+### How to compile
+=========================
+
++  You gonna need Visual Studio 2015 or Up.
++  Open the project.
++  Go to Project > Manage NuGet Packages
++  Search for boost.
++  Install the last version and restart the VS.
