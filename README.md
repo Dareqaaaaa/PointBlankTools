@@ -38,7 +38,7 @@ A tool to decrypt `*.pef` file.
 
 
 ### How to compile
-=========================
+-------------------
 
 +  You gonna need Visual Studio 2015 or Up.
 +  Open the project.
